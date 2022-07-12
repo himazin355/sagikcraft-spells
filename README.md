@@ -1,0 +1,2 @@
+# sagikcraft-spells
+ワイくんのMagikcraft Spells
